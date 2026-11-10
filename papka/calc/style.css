@@ -1,0 +1,35 @@
+ p{
+    color: white;
+    font-weight: 600;
+ }
+ input{
+ padding: 12px 32px;
+font-Size: 20px;
+background-Color: #26304f;
+border-color:  #12192d;
+border-radius: 20px;
+color: white;
+ }
+body {
+   background-Color: #12192d;
+  margin: 150px ;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+}
+.button{
+padding: 5px 30px;
+font-Size:15px;
+background-Color: #26304f;
+border-color:  #12192d;
+border-Radius: 20px;
+}
+#btn, #btn2, #btn3, #btn4{
+   background-Color: #385bc1;
+}
+#btn5, #btn6{
+   background-Color: #48557d;
+}
+#result{
+   color: white;
+}
